@@ -44,7 +44,39 @@ T -> G = 11714 (0.03%)
 
 #### R script
 Then you can visualize the data with provided R script `plot_script.R`.
-...
+Main overview
+![Overview](./plots/p1.png)
+
+Transitions histogram
+![Transitions](./plots/p2.png)
+
+Transversions histogram
+![Overview](./plots/p3.png)
+
+Adenin overview
+![Overview](./plots/p4.png)
+
+Adenin histogram
+![Overview](./plots/p5.png)
+
+Cytosin overview
+![Overview](./plots/p6.png)
+
+Cytosin histogram
+![Overview](./plots/p7.png)
+
+Guanin overview
+![Overview](./plots/p8.png)
+
+Guanin histogram
+![Overview](./plots/p9.png)
+
+Thymin overview
+![Overview](./plots/p10.png)
+
+Thymin histogram
+![Overview](./plots/p11.png)
+
 ~~~~
 ~~~~
 

@@ -52,37 +52,37 @@ This will generate file `Rplots.pdf` in your home directory containing the plots
 
 Alternatively you can view them in Rstudio.
 
-Main overview (p1)
+##### Main overview (p1)
 ![Overview](./plots/p1.png)
 
-Transitions histogram (p2)
+##### Transitions histogram (p2)
 ![Transitions](./plots/p2.png)
 
-Transversions histogram (p3)
+##### Transversions histogram (p3)
 ![Overview](./plots/p3.png)
 
-Adenin overview (p4)
+##### Adenin overview (p4)
 ![Overview](./plots/p4.png)
 
-Adenin histogram (p5)
+##### Adenin histogram (p5)
 ![Overview](./plots/p5.png)
 
-Cytosin overview (p6)
+##### Cytosin overview (p6)
 ![Overview](./plots/p6.png)
 
-Cytosin histogram (p7)
+##### Cytosin histogram (p7)
 ![Overview](./plots/p7.png)
 
-Guanin overview (p8)
+##### Guanin overview (p8)
 ![Overview](./plots/p8.png)
 
-Guanin histogram (p9)
+##### Guanin histogram (p9)
 ![Overview](./plots/p9.png)
 
-Thymin overview (p10)
+##### Thymin overview (p10)
 ![Overview](./plots/p10.png)
 
-Thymin histogram p(11)
+##### Thymin histogram p(11)
 ![Overview](./plots/p11.png)
 
 

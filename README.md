@@ -44,7 +44,13 @@ T -> G = 11714 (0.03%)
 
 #### R script
 Then you can visualize the data with provided R script `plot_script.R`.
-This script contains code for such plots.
+You can run the script with
+~~~~
+Rscript plot_script.R
+~~~~
+This will generate file `Rplots.pdf` in your home directory containing the plots.
+
+Alternatively you can view them in Rstudio.
 
 Main overview (p1)
 ![Overview](./plots/p1.png)
